@@ -8,5 +8,5 @@ Route::get('/', function () {
 
 
 Route::get('/RoutedeTest', function (){
-    return 'Seconde route de test'
+    return 'Seconde route de test';
 });
